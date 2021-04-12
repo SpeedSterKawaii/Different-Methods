@@ -21,3 +21,8 @@ public void Execute(string method, string script)
         MessageBox.Show("This is not a method.","Method");
     }
 }
+
+// Might not be correct due to me making this in vs studio.
+
+// Proof
+https://cdn.discordapp.com/attachments/823254755144630282/831172898768814170/unknown.png
